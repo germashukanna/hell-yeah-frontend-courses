@@ -1,0 +1,98 @@
+.umb{
+    border-radius: 60%;
+    margin: 700px;
+}
+
+.mald{
+    height: 1000px;
+    width: 1900px;
+    padding: 0px
+}
+
+h1{
+    color: rgb(47, 22, 71);
+    font-size: 60px;
+    float: center;
+    text-align: center;
+    font-weight: bolder;
+}  
+.one {
+    margin-right: 50px;
+    float: right;
+    position: relative;
+    padding: 10px;
+    font-size: 150%
+    }
+li{
+    display: inline;
+    margin: 20px;
+    
+}
+h2{
+ text-align: center;
+ font-size: 50px;
+ padding: -90px;
+ color: black;
+ margin-top: -130px;
+ 
+}
+ .when_you{
+     text-emphasis: right;
+     font-size: 200%
+ }
+ .part_2{
+       background-color: rgb(167, 249, 252);
+       height: 250px;
+       width: 1100px;
+       padding: 400px
+}
+
+ .fun{
+     border-radius: 50%;
+     margin: 10px;
+     padding: -30px;
+     background-position: 50% 50%;
+     background-size: cover;
+
+ }
+ .alco{
+    float: none;
+    text-align: start;
+    margin: 0px;
+    border: 0px
+
+
+ }
+ .san{
+float: left;
+
+ }
+ .flam{
+float: right;
+
+ }
+
+ h3{
+    text-align: top;
+    padding: 0px;
+    margin: 0px;
+    position: top;
+
+}
+.tus{
+    
+
+}
+.patty{
+    text-align: start;
+    margin: 10px;
+    padding: 20px;
+    
+    
+}
+.part_3{
+    background-color: rgb(226, 206, 182);
+    padding: 300px;
+    height: 400px;
+    width: 1300px;
+}
