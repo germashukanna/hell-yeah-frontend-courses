@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald&display=swap&subset=cyrillic,cyrillic-ext');
+reset.css
+normalize.css
+html, body{
+    font-family: 'Oswald', sans-serif;
+}
+body {
+    margin: 0; padding: 0 
+}
+nav{
+    background-color: black;
+}
+nav li{
+display: inline;
+margin: 10px;
+}
+.navig{
+font-size: 15px;
+margin: 20px;
+vertical-align: 50px;
+left: 1450px;
+position: absolute
+}
+a{
+color: aliceblue;
+}
+.icons{
+    margin: 0; padding: 0 ;
+   
+    }
+
+ul{
+display: inline;
+}
+header{
+color: black;
+font-size: 30px;
+}
+.one{
+    color: black;
+    padding: 150px;
+    float: left
+}
+.car1{
+float: right;
+
+}
+.two{
+background-color: rgb(170, 169, 169);
+padding: px;
+color:black;
+
+}
+h1{
+display: flex;
+text-align: left
+}
+h2{
+    text-align: right;
+    top: 700px;
+    left: 800px;
+    position: absolute;
+}
+.diz{
+top: 800px;
+position: absolute;
+}
+.tex{
+top: 800px;
+left: 700px;
+position: absolute;
+}
+
+.xod{
+     top: 800px;
+    left: 1300px;
+    position: absolute;  
+}
+
+.cars{
+    padding: 210px
+}
+.end{
+    position: absolute;
+    top: 1200px;
+    margin: 20px;
+}
+.zap{
+color: black;
+position: relative;
+margin: 20px;
+top: 660px;
+left: 1250px;
+float: left;
+
+}
+.drive{
+color: black;
+position: relative;
+left: 1250px;
+top: 670px;
+list-style: none;
+
+}
+.salon{
+float: right;
+position: absolute;
+left: 0px;
+top: 500px;
+
+}
+.map{
+position: absolute;
+left: 950px
+
+}
+
+.purpul{
+    float: right;
+    position: absolute;
+}
+.last{
+position: relative;
+left: 0px;
+top: 1800px;
+background-color: rgb(170, 169, 169);
+padding: 1em
+}
+.last li{
+display: inline; 
+margin: 20px;
+position: relative;
+left: 0.5em;
+}
+.set{
+    
+}
+
+footer{
+position: relative;
+top: 1800px;
+background-color: black;
+padding: 2em
+}
+footer p{
+    margin: 10px;
+    display: inline;
+}
+footer li{
+display: inline;
+margin: 10px;
+position: relative;
+left: 1100px;
+}
